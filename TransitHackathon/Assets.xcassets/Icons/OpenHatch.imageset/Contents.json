@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "8798742_attention_warning_caution_notice_error_icon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "8798742_attention_warning_caution_notice_error_icon 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "8798742_attention_warning_caution_notice_error_icon 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
